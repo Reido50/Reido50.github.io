@@ -1,12 +1,18 @@
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
+import styles from './App.module.css';
+import Home from './components/Home/Home';
+import NavBar from './components/NavBar/NavBar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>this is my website</h1>
-      <h2>im very cool</h2>
-      <h3>damn im soooooo cool</h3>
-      <p>really tiny and cool</p>
-    </div>
+    <Router>
+      <div className={styles.app}>
+        <NavBar/>
+        <Routes>
+          <Route path="/" element={<Home/>}></Route>
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

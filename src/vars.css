@@ -1,0 +1,18 @@
+:root{
+    /* Color */
+    --color-text: #040316;
+    --color-text-rgb: 4, 3, 22;
+    --color-primary: #3c7741;
+    --color-primary-rgb: 60, 119, 65;
+    --color-secondary: #a6c8a3;
+    --color-secondary-rgb: 166, 200, 163;
+    --color-accent: #15c95d;
+    --color-accent-rgb: 21, 201, 93;
+    --color-bg: #f4eedc;
+    --color-bg-rgb: 244, 238, 220;
+    --color-bg-accent: #715130;
+    --color-bg-accent-rgb: 151, 96, 40;
+
+    /* Fonts */
+    --font-afacad: "Afacad"
+}
