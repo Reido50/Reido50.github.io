@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.53f23adc.css",
-    "main.js": "/static/js/main.c6a06959.js",
+    "main.css": "/static/css/main.3419d7d0.css",
+    "main.js": "/static/js/main.c42e40e8.js",
     "static/media/headshot1_circle.png": "/static/media/headshot1_circle.edcf50e8145dbd1ae050.png",
     "static/media/reidandmo.jpeg": "/static/media/reidandmo.00b4f58a27d3cd18623f.jpeg",
     "static/media/portfolio_screenshot.png": "/static/media/portfolio_screenshot.0e3e024ce6ef409a43a5.png",
     "static/media/gamepad.svg": "/static/media/gamepad.a4fc094663ccb85b223f45882c3bdcce.svg",
     "static/media/safari.svg": "/static/media/safari.5434b9f7090a02816c071ce9c7954176.svg",
+    "static/media/github.svg": "/static/media/github.b2d4c76cc884b8c1012a03cb5c903723.svg",
     "static/media/graduation-cap.svg": "/static/media/graduation-cap.1ffbf0b3000acfe075bb74c0e2bafb7f.svg",
     "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.e77e834ce606fae5e61680e62aa40089.svg",
     "static/media/menu-scale.svg": "/static/media/menu-scale.40f47dba0be7d21b1c7f2363b4faddc6.svg",
     "static/media/menu.svg": "/static/media/menu.aa391ec9935c2b0eb1216ca5a5d584d3.svg",
-    "main.53f23adc.css.map": "/static/css/main.53f23adc.css.map",
-    "main.c6a06959.js.map": "/static/js/main.c6a06959.js.map"
+    "static/media/mail.svg": "/static/media/mail.7368abf0a7f1b44a3ffbb54d6709b4a2.svg",
+    "main.3419d7d0.css.map": "/static/css/main.3419d7d0.css.map",
+    "main.c42e40e8.js.map": "/static/js/main.c42e40e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.53f23adc.css",
-    "static/js/main.c6a06959.js"
+    "static/css/main.3419d7d0.css",
+    "static/js/main.c42e40e8.js"
   ]
 }
