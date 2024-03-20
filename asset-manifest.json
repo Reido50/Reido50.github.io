@@ -1,12 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.5f8d4c87.js",
+    "main.css": "/static/css/main.da5c96b6.css",
+    "main.js": "/static/js/main.a719607d.js",
+    "static/media/headshot1_circle.png": "/static/media/headshot1_circle.edcf50e8145dbd1ae050.png",
+    "static/media/reidandmo.jpeg": "/static/media/reidandmo.00b4f58a27d3cd18623f.jpeg",
+    "static/media/gamepad.svg": "/static/media/gamepad.a4fc094663ccb85b223f45882c3bdcce.svg",
     "index.html": "/index.html",
-    "main.5f8d4c87.js.map": "/static/js/main.5f8d4c87.js.map"
+    "static/media/menu-scale.svg": "/static/media/menu-scale.40f47dba0be7d21b1c7f2363b4faddc6.svg",
+    "static/media/menu.svg": "/static/media/menu.aa391ec9935c2b0eb1216ca5a5d584d3.svg",
+    "main.da5c96b6.css.map": "/static/css/main.da5c96b6.css.map",
+    "main.a719607d.js.map": "/static/js/main.a719607d.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.5f8d4c87.js"
+    "static/css/main.da5c96b6.css",
+    "static/js/main.a719607d.js"
   ]
 }
