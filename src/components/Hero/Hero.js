@@ -5,7 +5,7 @@ const Hero = () => {
     return ( 
         <section className={styles.Hero}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Hi, I'm Reid</h1>
+                <h1 className={styles.title}>Reid Harry</h1>
                 <p className={styles.description}>
                     I'm a front-end developer and designer with experience in the video game industry looking to branch out into web developement. 
                     <br/>

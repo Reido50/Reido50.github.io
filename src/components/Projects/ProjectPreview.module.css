@@ -1,0 +1,44 @@
+@import "../../vars.css";
+
+.container{
+    background-color: var(--color-secondary);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.previewImage{
+    height: 90%;
+    width: 90%;
+    align-self: center;
+    border-color: var(--color-primary);
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.description{
+    font-size: 20px;
+}
+
+.technologies{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.techEntry{
+    background-color: var(--color-primary);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: 400;
+}
