@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c89e56c.css",
-    "main.js": "/static/js/main.71b84cf2.js",
+    "main.css": "/static/css/main.585e3cf9.css",
+    "main.js": "/static/js/main.91f40d14.js",
+    "static/media/d4 deathroom.png": "/static/media/d4 deathroom.5da14a94214045c36079.png",
+    "static/media/d4 gameplay1.png": "/static/media/d4 gameplay1.3e7ca45c419ba2aad043.png",
     "static/media/headshot1_circle.png": "/static/media/headshot1_circle.edcf50e8145dbd1ae050.png",
     "static/media/reidandmo.jpeg": "/static/media/reidandmo.00b4f58a27d3cd18623f.jpeg",
     "static/media/portfolio_screenshot.png": "/static/media/portfolio_screenshot.0e3e024ce6ef409a43a5.png",
+    "static/media/diablo4cover.jpg": "/static/media/diablo4cover.1a8a656457546d1c66fb.jpg",
     "static/media/gamepad.svg": "/static/media/gamepad.a4fc094663ccb85b223f45882c3bdcce.svg",
     "static/media/safari.svg": "/static/media/safari.5434b9f7090a02816c071ce9c7954176.svg",
     "static/media/github.svg": "/static/media/github.b2d4c76cc884b8c1012a03cb5c903723.svg",
@@ -15,11 +18,13 @@
     "static/media/menu-scale.svg": "/static/media/menu-scale.40f47dba0be7d21b1c7f2363b4faddc6.svg",
     "static/media/menu.svg": "/static/media/menu.aa391ec9935c2b0eb1216ca5a5d584d3.svg",
     "static/media/mail.svg": "/static/media/mail.7368abf0a7f1b44a3ffbb54d6709b4a2.svg",
-    "main.1c89e56c.css.map": "/static/css/main.1c89e56c.css.map",
-    "main.71b84cf2.js.map": "/static/js/main.71b84cf2.js.map"
+    "static/media/arrow-right.svg": "/static/media/arrow-right.f8c20211cdb5cc8cebe2437bb1109757.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.d396441e05041e59fb4001fc7dc4dd6a.svg",
+    "main.585e3cf9.css.map": "/static/css/main.585e3cf9.css.map",
+    "main.91f40d14.js.map": "/static/js/main.91f40d14.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c89e56c.css",
-    "static/js/main.71b84cf2.js"
+    "static/css/main.585e3cf9.css",
+    "static/js/main.91f40d14.js"
   ]
 }
