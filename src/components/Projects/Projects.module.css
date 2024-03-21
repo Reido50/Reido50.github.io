@@ -22,7 +22,7 @@
     gap: 10px;
 }
 
-@media screen and (max-width: 830px){
+@media screen and (max-width: 1050px){
     .Projects{
         align-items: center;
     }

@@ -5,9 +5,9 @@ import compassIcon from '../../assets/safari.svg';
 import styles from './About.module.css';
 import AboutItem from './AboutItem';
 
-const About = () => {
+const About = ({aboutRef}) => {
     return ( 
-        <section className={styles.About} id="about">
+        <section className={styles.About} ref={aboutRef}>
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <img className={styles.aboutImage} src={aboutPicture} alt="picture of Reid and their partner"/>

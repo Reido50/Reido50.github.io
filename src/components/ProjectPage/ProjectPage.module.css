@@ -1,0 +1,85 @@
+@import "../../vars.css";
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    gap: 5vw;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.header h2{
+    font-size: 72px;
+    font-weight: 800;
+    justify-content: center;
+}
+
+.carousel{
+    width: 70vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.statsPanel{
+    background-color: var(--color-secondary);
+    border-radius: 10px;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2vw 0;
+    justify-content:space-evenly;
+    margin-bottom: 50px;
+}
+
+.stat{
+    min-width: 5vw;
+    max-width: 256px;
+    display: flex;
+    flex-direction: column;
+}
+
+.stat h3{
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.stat p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.stat img{
+    height: 40px;
+    width: 40px;
+    align-self: center;
+}
+
+.description p{
+    font-size: 24px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 24px;
+    max-width: 50%;
+}
+
+@media screen and (max-width: 830px){
+    .header{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .carousel{
+        width: 90vw;
+        height: 90vw;
+    }
+
+    .statsPanel{
+        flex-direction: column;
+    }
+}

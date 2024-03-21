@@ -1,19 +1,20 @@
+import { useState } from "react";
+import { Link } from "react-router-dom";
 import testImg from "../../assets/portfolio_screenshot.png";
 import styles from "./ProjectPreview.module.css";
 
-const ProjectPreview = () => {
+const ProjectPreview = ({name, description, img, techOne, techTwo, techThree, url}) => {
     return ( 
-        <div className={styles.container}>
-            <h2 className={styles.title}>Project Title</h2>
-            <img className={styles.previewImage} src={testImg} alt="screenshot of my portfolio" />
-            <p className={styles.description}>
-                This is my super cool project. I love it because it's so super neat and cool and lovely
-            </p>
+        <Link className={styles.container} to={url}>
+            <h2 className={styles.title}>{name}</h2>
+            <img className={styles.previewImage} src={img} alt="screenshot of my portfolio" />
+            <p className={styles.description}>{description}</p>
             <div className={styles.technologies}>
-                <h3 className={styles.techEntry}>Tech 1</h3>
-                <h3 className={styles.techEntry}>Tech 2</h3>
+                {techOne && <h3 className={styles.techEntry}>{techOne}</h3>}
+                {techTwo && <h3 className={styles.techEntry}>{techTwo}</h3>}
+                {techThree && <h3 className={styles.techEntry}>{techThree}</h3>}
             </div>
-        </div>
+        </Link>
      );
 }
  
