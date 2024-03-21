@@ -4,8 +4,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     gap: 5vw;
     margin-bottom: 50px;
     margin-top: 20px;
@@ -18,11 +18,10 @@
 }
 
 .carousel{
-    width: 70vw;
-    height: auto;
+    width: 100%;
+    aspect-ratio: 16 / 9;
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
 
 .statsPanel{
@@ -74,12 +73,8 @@
         text-align: center;
     }
 
-    .carousel{
-        width: 90vw;
-        height: 90vw;
-    }
-
     .statsPanel{
         flex-direction: column;
+        align-items: center;
     }
 }

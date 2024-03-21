@@ -1,6 +1,6 @@
+import linkImg from "../../assets/link.svg";
 import ImageCarousel from "../ImageCarousel/ImageCarousel";
 import styles from "./ProjectPage.module.css";
-import linkImg from "../../assets/link.svg"
 
 const ProjectPage = ({title, duration, teamSize, description, imgList}) => {
     return ( 
@@ -27,7 +27,7 @@ const ProjectPage = ({title, duration, teamSize, description, imgList}) => {
             </section>
             <section className={styles.description}>
                 {description.map((para) => (
-                    <p>{para}</p>
+                    <p key={para}>{para}</p>
                 ))}
             </section>
         </div>
