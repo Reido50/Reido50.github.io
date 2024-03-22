@@ -20,7 +20,10 @@ const NavBar = ({aboutRef, projectsRef}) => {
     return ( 
         <nav className={navbarBG ? styles.navbarBG : styles.navbarTrans}>
             <Link className={styles.title} to="/" stat={{section : "top"}} onClick={() => {
-                
+                window.scrollTo({
+                    top: 0,
+                    behavior: "smooth"
+                })
             }}>Portfolio</Link>
             <div className={styles.menu}>
                 <ul className={styles.menuItems}>

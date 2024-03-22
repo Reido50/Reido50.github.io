@@ -2,12 +2,12 @@ import linkImg from "../../assets/link.svg";
 import ImageCarousel from "../ImageCarousel/ImageCarousel";
 import styles from "./ProjectPage.module.css";
 
-const ProjectPage = ({title, duration, teamSize, description, imgList}) => {
+const ProjectPage = ({title, duration, teamSize, description, imgList, link}) => {
     return ( 
         <div>
             <header className={styles.header}>
                 <div className={styles.carousel}>
-                    <ImageCarousel/>
+                    <ImageCarousel images={imgList}/>
                 </div>
                 <h2>{title}</h2>
             </header>
@@ -20,10 +20,10 @@ const ProjectPage = ({title, duration, teamSize, description, imgList}) => {
                     <h3>Team Size</h3>
                     <p>{teamSize}</p>
                 </div>
-                <div className={styles.stat}>
+                {link && <div className={styles.stat}>
                     <h3>Link</h3>
-                    <img src={linkImg} alt="link icon" />
-                </div>
+                    <a href={link} target="_blank"><img src={linkImg} alt="link icon"/></a>
+                </div>}
             </section>
             <section className={styles.description}>
                 {description.map((para) => (

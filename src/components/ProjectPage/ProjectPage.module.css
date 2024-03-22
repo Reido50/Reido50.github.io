@@ -53,6 +53,10 @@
     text-align: center;
 }
 
+.stat a{
+    align-self: center;
+}
+
 .stat img{
     height: 40px;
     width: 40px;

@@ -11,7 +11,6 @@ const Hero = () => {
                     <br/>
                     Feel free to reach out!
                 </p>
-                <a className={styles.contactButton} href="mailto:reid.j.harry@gmail.com">Contact Me</a>
             </div>
             <img className={styles.heroImage} src={headshot} alt="professional headshot of Reid" />
             <div className={styles.topBlur}></div>

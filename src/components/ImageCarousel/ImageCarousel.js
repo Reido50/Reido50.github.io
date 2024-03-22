@@ -7,8 +7,7 @@ import testImg2 from "../../assets/diablo4cover.jpg";
 import testImg1 from "../../assets/portfolio_screenshot.png";
 import styles from "./ImageCarousel.module.css";
 
-const ImageCarousel = () => {
-    const images = [testImg1, testImg2, testImg3, testImg4]
+const ImageCarousel = ({images}) => {
     const [imageIndex, setImageIndex] = useState(0);
 
     const transitionImage = (offset) => {
