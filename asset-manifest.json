@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.101c8f66.css",
-    "main.js": "/static/js/main.96501e20.js",
+    "main.js": "/static/js/main.d65d6b4e.js",
     "static/media/d4 deathroom.png": "/static/media/d4 deathroom.5da14a94214045c36079.png",
     "static/media/d4 gameplay1.png": "/static/media/d4 gameplay1.3e7ca45c419ba2aad043.png",
     "static/media/factoryreset-gameplay2.png": "/static/media/factoryreset-gameplay2.d3e7143160385fded4d6.png",
@@ -16,8 +16,14 @@
     "static/media/d4 game awards.jpg": "/static/media/d4 game awards.e23250b80d3398527a32.jpg",
     "static/media/portfolio_screenshot.png": "/static/media/portfolio_screenshot.0e3e024ce6ef409a43a5.png",
     "static/media/d4 dice awards.jpg": "/static/media/d4 dice awards.baacd37fd61e32817a5c.jpg",
+    "static/media/portfolio_code3.png": "/static/media/portfolio_code3.221279b75c26796b7eb2.png",
+    "static/media/portfolio_code1.png": "/static/media/portfolio_code1.f1d2e902f8c43b8d937a.png",
     "static/media/d4 fastest selling.jpg": "/static/media/d4 fastest selling.5f8c7fb358b11312825e.jpg",
+    "static/media/portfolio_code2.png": "/static/media/portfolio_code2.c1c164eedc799a8fcbbe.png",
+    "static/media/d4_gameplay5.jpg": "/static/media/d4_gameplay5.6d6d100c87edccfb0dac.jpg",
     "static/media/diablo4cover.jpg": "/static/media/diablo4cover.1a8a656457546d1c66fb.jpg",
+    "static/media/d4_gameplay4.jpg": "/static/media/d4_gameplay4.1e1b75f857569f5aefb0.jpg",
+    "static/media/d4_gameplay3.jpg": "/static/media/d4_gameplay3.c8942a641e0c02ac1a2c.jpg",
     "static/media/gamepad.svg": "/static/media/gamepad.a4fc094663ccb85b223f45882c3bdcce.svg",
     "static/media/safari.svg": "/static/media/safari.5434b9f7090a02816c071ce9c7954176.svg",
     "static/media/github.svg": "/static/media/github.b2d4c76cc884b8c1012a03cb5c903723.svg",
@@ -31,10 +37,10 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.f8c20211cdb5cc8cebe2437bb1109757.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.d396441e05041e59fb4001fc7dc4dd6a.svg",
     "main.101c8f66.css.map": "/static/css/main.101c8f66.css.map",
-    "main.96501e20.js.map": "/static/js/main.96501e20.js.map"
+    "main.d65d6b4e.js.map": "/static/js/main.d65d6b4e.js.map"
   },
   "entrypoints": [
     "static/css/main.101c8f66.css",
-    "static/js/main.96501e20.js"
+    "static/js/main.d65d6b4e.js"
   ]
 }
