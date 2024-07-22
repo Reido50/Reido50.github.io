@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.101c8f66.css",
-    "main.js": "/static/js/main.d65d6b4e.js",
+    "main.js": "/static/js/main.68fdadcb.js",
     "static/media/d4 deathroom.png": "/static/media/d4 deathroom.5da14a94214045c36079.png",
     "static/media/d4 gameplay1.png": "/static/media/d4 gameplay1.3e7ca45c419ba2aad043.png",
     "static/media/factoryreset-gameplay2.png": "/static/media/factoryreset-gameplay2.d3e7143160385fded4d6.png",
@@ -37,10 +37,10 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.f8c20211cdb5cc8cebe2437bb1109757.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.d396441e05041e59fb4001fc7dc4dd6a.svg",
     "main.101c8f66.css.map": "/static/css/main.101c8f66.css.map",
-    "main.d65d6b4e.js.map": "/static/js/main.d65d6b4e.js.map"
+    "main.68fdadcb.js.map": "/static/js/main.68fdadcb.js.map"
   },
   "entrypoints": [
     "static/css/main.101c8f66.css",
-    "static/js/main.d65d6b4e.js"
+    "static/js/main.68fdadcb.js"
   ]
 }
