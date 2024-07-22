@@ -18,7 +18,7 @@ const Projects = ({projectsRef}) => {
                     url={"portfolio"}/>
                 <ProjectPreview
                     name={"Diablo IV"}
-                    description={"For almost 2 years, I've been designing and implementing content for the world's biggest isometric ARPG series. "}
+                    description={"For almost 2 years, I've been designing and implementing content for the world's biggest isometric ARPG series."}
                     img={diabloImg}
                     techOne={"Lua"}
                     techTwo={"Jira"}
