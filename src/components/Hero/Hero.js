@@ -1,4 +1,4 @@
-import headshot from "../../assets/headshot1_circle.png";
+import headshot from "../../assets/headshot5.png";
 import styles from "./Hero.module.css";
 
 const Hero = () => {
