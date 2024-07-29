@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.101c8f66.css",
-    "main.js": "/static/js/main.68fdadcb.js",
+    "main.css": "/static/css/main.5723076e.css",
+    "main.js": "/static/js/main.fe348e09.js",
     "static/media/d4 deathroom.png": "/static/media/d4 deathroom.5da14a94214045c36079.png",
     "static/media/d4 gameplay1.png": "/static/media/d4 gameplay1.3e7ca45c419ba2aad043.png",
     "static/media/factoryreset-gameplay2.png": "/static/media/factoryreset-gameplay2.d3e7143160385fded4d6.png",
     "static/media/factoryreset-gameplay4.png": "/static/media/factoryreset-gameplay4.b4f56cc79298e327a7eb.png",
     "static/media/factoryreset-gameplay3.png": "/static/media/factoryreset-gameplay3.d2d7c5e5a36f04b2b320.png",
     "static/media/factoryreset-gameplay1.png": "/static/media/factoryreset-gameplay1.e486c153b301049e348d.png",
-    "static/media/headshot1_circle.png": "/static/media/headshot1_circle.edcf50e8145dbd1ae050.png",
+    "static/media/headshot5.png": "/static/media/headshot5.8891f8bdc55bdcc0427b.png",
     "static/media/portfolioscreenshot.png": "/static/media/portfolioscreenshot.9313d11eafebe85c467c.png",
     "static/media/factoryresetposter.png": "/static/media/factoryresetposter.a5008113fb3261129e7c.png",
     "static/media/reidandmo.jpeg": "/static/media/reidandmo.00b4f58a27d3cd18623f.jpeg",
@@ -36,11 +36,11 @@
     "static/media/mail.svg": "/static/media/mail.7368abf0a7f1b44a3ffbb54d6709b4a2.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.f8c20211cdb5cc8cebe2437bb1109757.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.d396441e05041e59fb4001fc7dc4dd6a.svg",
-    "main.101c8f66.css.map": "/static/css/main.101c8f66.css.map",
-    "main.68fdadcb.js.map": "/static/js/main.68fdadcb.js.map"
+    "main.5723076e.css.map": "/static/css/main.5723076e.css.map",
+    "main.fe348e09.js.map": "/static/js/main.fe348e09.js.map"
   },
   "entrypoints": [
-    "static/css/main.101c8f66.css",
-    "static/js/main.68fdadcb.js"
+    "static/css/main.5723076e.css",
+    "static/js/main.fe348e09.js"
   ]
 }
